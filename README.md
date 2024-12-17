@@ -1,3 +1,3 @@
-# revisiting-watermark-robustness
+# Revisiting the Robustness of Watermarking to Paraphrasing Attacks
 
-The repo is in work-in-progress 🚧
+This is the implementation for the paper [Revisiting the Robustness of Watermarking to Paraphrasing Attacks](https://arxiv.org/abs/2411.05277). 
