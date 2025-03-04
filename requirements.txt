@@ -1,0 +1,8 @@
+nltk
+tqdm
+torch
+jieba
+accelerate
+transformers
+seaborn
+scikit-learn
